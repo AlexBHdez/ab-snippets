@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on AlexBHdez code snippets</title>
-    <link>http://example.org/js/</link>
+    <link>http://codesnippets.alexbretones.com/js/</link>
     <description>Recent content in Javascript on AlexBHdez code snippets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://codesnippets.alexbretones.com/js/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

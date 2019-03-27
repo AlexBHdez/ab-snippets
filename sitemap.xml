@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/js/</loc>
+    <loc>http://codesnippets.alexbretones.com/js/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/react/</loc>
+    <loc>http://codesnippets.alexbretones.com/react/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/css/</loc>
+    <loc>http://codesnippets.alexbretones.com/css/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/git/</loc>
+    <loc>http://codesnippets.alexbretones.com/git/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://codesnippets.alexbretones.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://codesnippets.alexbretones.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/git/orphan-branches/</loc>
+    <loc>http://codesnippets.alexbretones.com/git/orphan-branches/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://codesnippets.alexbretones.com/tags/</loc>
     <priority>0</priority>
   </url>
   
